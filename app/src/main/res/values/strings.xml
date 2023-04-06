@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IdRecognizer</string>
+    <string name="start_id_scan">Vendosni anen e perparme te kartes se identitetit brenda katrorit te shenuar.</string>
+    <string name="invalid_document_position">Vendosni dokumentin brenda katrorit te shenuar.</string>
+    <string name="invalid_document_size">Afroni dokumentin</string>
+    <string name="valid_document_position">Mbani dokumentin ne kete pozicion</string>
+    <string name="turn_card">Ktheni karten!</string>
+    <string name="start_passport_scan">Vendosni pasaporten brenda katrorit te shenuar.</string>
+</resources>

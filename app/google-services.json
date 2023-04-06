@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167096076316",
+    "project_id": "idrecognizer-178d8",
+    "storage_bucket": "idrecognizer-178d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167096076316:android:7ca6cbe853e090fab3b7d9",
+        "android_client_info": {
+          "package_name": "com.example.idrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167096076316-7u0oknk3uqg52okr9no23nibqabasg5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idrecognizer",
+            "certificate_hash": "a3a22b0fed97994e0703b4def627ad5cba0ba81f"
+          }
+        },
+        {
+          "client_id": "167096076316-21ed5nk96f9kvaams33opgblliotc9mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9eY7gSqNgW5ZddmZgxEAs0zyMBCNp9ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167096076316-21ed5nk96f9kvaams33opgblliotc9mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
