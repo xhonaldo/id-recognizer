@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity(), IdScanCallback {
 
         idRecognizer = IdRecognizer(
             binding.scanView,
-            IdType.ID_CARD_FRONT
+            IdType.ID_CARD_BACK
         ).apply {
             idScanCallback = this@MainActivity
         }
